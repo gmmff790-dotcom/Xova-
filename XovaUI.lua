@@ -2181,7 +2181,7 @@ function Library:Window(Args)
 				BackgroundTransparency = 1,
 				BorderSizePixel = 0,
 				Position = UDim2.new(0.5, 0, 0.5, 0),
-				Size = UDim2.new(0.5, 0, 0.5, 0),
+				Size = UDim2.new(1, 0, 1, 0),
 				Image = "rbxassetid://126239192307237",
                 ScaleType = Enum.ScaleType.Crop
 			})
